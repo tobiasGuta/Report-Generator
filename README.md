@@ -64,3 +64,15 @@ The generated report includes:
   * Steps to reproduce
   * Full HTTP request/response
   * Remediation recommendations
+
+<img width="1919" height="1023" alt="Screenshot 2026-03-09 203934" src="https://github.com/user-attachments/assets/c07f8e4b-4292-4d3e-9442-d20bdc5d32c1" />
+
+<img width="1915" height="1025" alt="Screenshot 2026-03-09 203437" src="https://github.com/user-attachments/assets/bde8a071-2837-4766-a119-08d2c5cb1f6c" />
+
+<img width="1917" height="1026" alt="Screenshot 2026-03-09 203610" src="https://github.com/user-attachments/assets/d7eaf6e4-f92d-4ea9-9b2d-89abd6c2fcf4" />
+
+<img width="1918" height="1029" alt="Screenshot 2026-03-09 203619" src="https://github.com/user-attachments/assets/ea3c9787-4c64-4449-85c2-ea5774d7ca19" />
+
+<img width="1916" height="1027" alt="Screenshot 2026-03-09 203629" src="https://github.com/user-attachments/assets/74232157-6d7f-4fa4-856b-69646c76bcf9" />
+
+<img width="1919" height="1033" alt="Screenshot 2026-03-09 203836" src="https://github.com/user-attachments/assets/5be85da1-7556-4993-be88-46920d54e046" />
